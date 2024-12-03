@@ -4,3 +4,11 @@ This Branch demonstrates fundamental JavaScript concepts with examples of basic 
 - `If-Else`
 - `If-ElseIf`
 - `Random Numbers`
+- `Case statement`
+- `For Loops`
+- `While Loops`
+- ` Function`
+- `Arrow function, Map ,Iterables , Set `
+
+
+
