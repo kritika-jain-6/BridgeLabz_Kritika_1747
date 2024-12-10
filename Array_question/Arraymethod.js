@@ -20,18 +20,15 @@ console.log(arr.splice(1,3));
 console.log(arr.slice(1,3));
 console.log(arr.reverse());
 console.log(arr.indexOf("Kiwi"));
-console.log(arr.fill("Mango"));*/
+console.log(arr.fill("Mango"));
 
-
-
-
-/*const arr1=["Html","Css","Javascript"];
+const arr1=["Html","Css","Javascript"];
 const arr2=["Java","Python","R","Ruby"];
 console.log(arr1.concat(arr2));
-console.log(arr1.concat("React"));*/
+console.log(arr1.concat("React"));
 
 
-/*const myArr=[[1,2],[3,4],[5,6]];
+const myArr=[[1,2],[3,4],[5,6]];
 const myArr1=[1,2,3,4,5];
 console.log(myArr.flat());
 console.log(myArr1.flatMap(x=>[x,x*10]));*/

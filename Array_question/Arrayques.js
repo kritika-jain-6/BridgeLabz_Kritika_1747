@@ -25,13 +25,15 @@ function maxminandsum(){
 }
 
 function cyclicrotationsandreverse(){
-    const arr=[3,5,8,2,7,9,3]
-    const last=arr.pop();
+    const arr=[34,56,78,22,2,7];
+    /*const last=arr.pop();
     arr.unshift(last);
     console.log(arr);  
-    //console.log(arr.reverse());
-    console.log(arr.sort());
+    console.log(arr.reverse());*/
+    arr.sort((a,b)=>a-b);
+    console.log(arr);
 }
+//cyclicrotationsandreverse()
 
 function posandnegarray(){
     let arr1 = [-1, -2, -3, 5, 7, 4];
@@ -64,8 +66,8 @@ function duplicateandsort(){
     });
     console.log(arr1);
 
-
 }
+
 
 
 
