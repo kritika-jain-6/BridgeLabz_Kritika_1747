@@ -26,7 +26,7 @@ function maxminandsum(){
 
 function cyclicrotationsandreverse(){
     const arr=[34,56,78,22,2,7];
-    /*const last=arr.pop();
+   /* const last=arr.pop();
     arr.unshift(last);
     console.log(arr);  
     console.log(arr.reverse());*/
